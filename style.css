@@ -101,3 +101,9 @@
     padding-top: 20px;
     font-size: 1.5rem;
 }
+
+footer {
+    text-align: center;
+    color: white;
+    font-weight: 600;
+}
